@@ -1,0 +1,3 @@
+pythom -m pip install telethon && 
+pythom -m pip install pyarmor && 
+pythons heart.ry
